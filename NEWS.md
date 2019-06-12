@@ -5,6 +5,7 @@ SSDM 0.2.5.9000
 ===============
 
 - #46 fixed
+- Fixed NA propagation through null division in `project`
 
 SSDM 0.2.5
 ===============
